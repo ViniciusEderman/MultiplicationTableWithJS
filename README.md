@@ -1,5 +1,5 @@
 # 🤞 Hi Dev, are u ok? 🤞
-    I made this project to work some JS logic together with an improvement of my CSS
+    I made this project to work JS logic together with an improvement of my CSS
 
 
 # 🖥️ About the future of the project:
@@ -8,6 +8,7 @@
 
 # ⚡ About my multiplication table:
     You can to see the results of multiplication:
+    OBS: In the interval of (1 - 120000)
     1 * N = X
     2 * N = X
     3 * N = X
@@ -23,5 +24,5 @@
 
 
 # 💬 Run the project:
-    You need to clone my repository, open the folder(views) and start the index.html with(Live Serv)
-    After do this, you can to play my game.
+    You need to clone my repository, open the folder(html) and start the index.html with(Live Serv)
+    After do this, you can to test.
